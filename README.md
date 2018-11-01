@@ -1,2 +1,2 @@
-# gamalami_auctions
+# Gamalami Auctions
 A powerful auctions platform with messaging capabilities.
